@@ -14,18 +14,18 @@ requirements: Python 2.7 and libraries: BeautifulSoup, html5lib
 
 
 example of usage:
-1. Using country
-  > python top_urls.py country US
+1. Using country<br /> 
+  ```> python top_urls.py country US```
 
-2. Using category
-  > python top_urls.py category Arts
+2. Using category<br /> 
+  ```> python top_urls.py category Arts```
 
-  - using subcategory
-    > pytohn top_urls.py category Arts/Animation
+  - using subcategory<br /> 
+    ```> pytohn top_urls.py category Arts/Animation```
 
-3. Default
-  > python top_urls.py
-  This will print the top 50 websites of the world.
+3. Default<br /> 
+  ```> python top_urls.py```
+  ```# This will print the top 50 websites of the world.```
 
 
 <b>TODO:</b>
